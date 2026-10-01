@@ -1,0 +1,42 @@
+{
+  "name": "titans-of-war-caesar",
+  "version": "0.2.0",
+  "description": "A local-first formation strategy game covering Caesar's campaigns and a bounded alternate-history epilogue.",
+  "private": true,
+  "license": "SEE LICENSE IN LICENSE",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "test": "vitest run",
+    "build": "npm run test && tsc --noEmit && vite build",
+    "check": "npm run build",
+    "art:render:bibracte": "blender --background --python scripts/render-unit-atlases.py -- --family bibracte --output art-output/bibracte",
+    "art:pack:bibracte": "python3 scripts/pack-unit-atlases.py art-output/bibracte public/unit-atlases",
+    "art:render:all": "blender --background --python scripts/render-unit-atlases.py -- --family all --output art-output/formations",
+    "art:pack:all": "python3 scripts/pack-unit-atlases.py art-output/formations public/unit-atlases",
+    "release:itch": "node scripts/package-release.mjs",
+    "postbuild": "node scripts/stage-release-licenses.mjs"
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "phaser": "^3.90.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.9",
+    "@types/react-dom": "^19.1.7",
+    "@vitejs/plugin-react": "^4.7.0",
+    "typescript": "^5.9.2",
+    "vite": "^7.1.2",
+    "vitest": "^3.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/titans-forge/Titans-of-War-Caesar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/titans-forge/Titans-of-War-Caesar/issues"
+  },
+  "homepage": "https://titans-forge.itch.io/titans-of-war-caesar"
+}

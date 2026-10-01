@@ -1,0 +1,9 @@
+{
+  "pipeline": "Titans of War Caesar Formation Art Source Kit",
+  "source": "Procedural Blender geometry and materials authored in this repository",
+  "license": "MIT for scripts and generated source geometry; project media release remains separately recorded in MEDIA_RIGHTS.md",
+  "families": ["roman-infantry", "gallic-infantry", "hellenistic-infantry", "missile-infantry", "auxiliary-cavalry", "horse-archer", "cataphract", "scythed-chariot"],
+  "camera": "fixed orthographic eight-direction render",
+  "states": ["idle", "walk", "attack", "route", "fall"],
+  "human_review_required": true
+}
