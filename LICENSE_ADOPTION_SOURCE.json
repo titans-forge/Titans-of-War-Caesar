@@ -1,0 +1,19 @@
+{
+  "changed_file_sha256": {
+    "FORGE-LICENSING.html": "e0be0ce66c8b60c01b0f753c1ea254bbf1d50b10c0448547498797c18bfbfb20",
+    "LICENSE": "01c53180ca78bee80411c2d07e436014b62f7e48dd37de70c2fed72238ee57dc",
+    "LICENSE-LEGACY-PRE-FORGE-2.0.txt": "28638be413f7815704fe68aed52a4ea4cb7bd4d28b35f2dca9b78d438a4a90bf",
+    "LICENSING.md": "49179bae7988a7c0c0cc5149d9af7adfa29609cdd0947eb3150376983cd1fc6c",
+    "README.md": "1dd179aaf0d41bc6cdc75e369e97784df461bc5335e087492c5ab7601f688219",
+    "docs/licensing-history/2026-10-15-before-forge-2.0/LICENSE": "28638be413f7815704fe68aed52a4ea4cb7bd4d28b35f2dca9b78d438a4a90bf",
+    "docs/licensing-history/2026-10-15-before-forge-2.0/LICENSING.md": "e8d8da25aceb233e2adfe6167b462391595eeace16d76a7cf360b23da0756e40",
+    "docs/licensing-history/2026-10-15-before-forge-2.0/LICENSING_CHECKPOINT.json": "530b1b9a1deba4d47d3fed15d60eb1564c4433573eaaf9da156f89f13119d2d8",
+    "docs/licensing-history/2026-10-15-before-forge-2.0/SOURCE_SNAPSHOT.json": "0ddb4fdb9dc5c152b45a1f1315bf54213a3b96109c05ebe7ac69a41c82334c37",
+    "scripts/stage-release-licenses.mjs": "c17c5f4c59cf254dbf26d5616abe4ad5e48b81d68f6ce9cbf6580e5aef9c449e"
+  },
+  "coverage": "Only qualifying new expression in revised/added policy documentation, offline rights page and packaging checks. Existing portions and all unchanged game material keep prior grants.",
+  "edition": "FG2-TITANS-OF-WAR-CAESAR-20261015",
+  "previous_source_commit": "e5b4409d8881f6301ec9888cf59ad5691a9bf18f",
+  "previous_source_tree": "e98b5e22ec178d3bdd5a91a6d0290f2db78cb38c",
+  "schema": "forge_license_adoption_source_v1"
+}

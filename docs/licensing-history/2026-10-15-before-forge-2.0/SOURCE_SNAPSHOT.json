@@ -1,0 +1,250 @@
+{
+  "schema": "forge_selected_runtime_snapshot_v1",
+  "snapshot_date": "2026-09-30",
+  "package_version": "0.2.0",
+  "input_manifest_sha256": "375acea3993e1c06d3957b5b5d7679ee15643d783b5c35e8393670577d5c1b6e",
+  "history_included": false,
+  "runtime_files": [
+    {
+      "path": "index.html",
+      "sha256": "96a9185cf69aa23b634c968b3edf150f08ef8341c1b25e39a54caa71bd933d9c",
+      "bytes": 472
+    },
+    {
+      "path": "public/unit-atlases/auxiliary-cavalry.json",
+      "sha256": "8fde0f6f4b46672548a78b7a6f5ce37fda07b8afd813d032b1a1867ed88ebe32",
+      "bytes": 52306
+    },
+    {
+      "path": "public/unit-atlases/auxiliary-cavalry.webp",
+      "sha256": "d8588de237c2fc53892207c23a79b60c158ada5fbf3271af556fbc797fff4753",
+      "bytes": 1754396
+    },
+    {
+      "path": "public/unit-atlases/cataphract.json",
+      "sha256": "230323dea51f7cb1690ea7113064f10e9240ef1d5e59b81043f8bbbb30fe67e8",
+      "bytes": 52299
+    },
+    {
+      "path": "public/unit-atlases/cataphract.webp",
+      "sha256": "1dfb8ed84c09853ff298bd2daaabad92eb1337df9a3b6b856b99b86f00f3f7ee",
+      "bytes": 1734208
+    },
+    {
+      "path": "public/unit-atlases/gallic-infantry.json",
+      "sha256": "32c7d4608acea08e05c2b81c3e4dabf46c9556a7d449cda62f64683abb051e26",
+      "bytes": 52304
+    },
+    {
+      "path": "public/unit-atlases/gallic-infantry.webp",
+      "sha256": "02fafe6c7b0395e37baad61234630c9c438c65868a4a5a68930068f3872f76d4",
+      "bytes": 1956006
+    },
+    {
+      "path": "public/unit-atlases/hellenistic-infantry.json",
+      "sha256": "3c7638b2629ce3c4a275fd629fcecb5044f854d5be4aabb30440652624c2341f",
+      "bytes": 52309
+    },
+    {
+      "path": "public/unit-atlases/hellenistic-infantry.webp",
+      "sha256": "2b92e428bd13b903b2b3cc0dd383d08939c255782a86255986d53f990d5bc389",
+      "bytes": 2001022
+    },
+    {
+      "path": "public/unit-atlases/horse-archer.json",
+      "sha256": "f5ab44fda242c8bdf8b37c1315480064d3db787cb541d6041633665670652022",
+      "bytes": 52301
+    },
+    {
+      "path": "public/unit-atlases/horse-archer.webp",
+      "sha256": "f480697f5ee530cce44d2ffd00dcbbb65e01022492d9ae76d19ad861f0175d22",
+      "bytes": 1623402
+    },
+    {
+      "path": "public/unit-atlases/missile-infantry.json",
+      "sha256": "7baad8ab23b17a80cc8226f609302cbf5fe426539d788b73bf50238ef13c7d4b",
+      "bytes": 52305
+    },
+    {
+      "path": "public/unit-atlases/missile-infantry.webp",
+      "sha256": "b0518312e72f70e42fd5a6d6c7af7c87849e9ef4362c938dc74fc46df0e41547",
+      "bytes": 1743798
+    },
+    {
+      "path": "public/unit-atlases/roman-infantry.json",
+      "sha256": "6a844044b8528d4042e171b76501f06c2e8dcef1fd99e04b02245b9c9fa16623",
+      "bytes": 52303
+    },
+    {
+      "path": "public/unit-atlases/roman-infantry.webp",
+      "sha256": "ab995c7a2546d5046686d89908b5d5b786eaaee9d049a564cd760693d69f111a",
+      "bytes": 1818256
+    },
+    {
+      "path": "public/unit-atlases/scythed-chariot.json",
+      "sha256": "6872a2830067b8403043afe77b027ad4231b566919a1a870945e1cfbc80ba534",
+      "bytes": 52304
+    },
+    {
+      "path": "public/unit-atlases/scythed-chariot.webp",
+      "sha256": "54062d3f6ebfc4f3ab7955a105faac17b08ee516bf05cb5772ad2582cc9bbb1e",
+      "bytes": 1345788
+    },
+    {
+      "path": "src/App.tsx",
+      "sha256": "0d99d5d064184bcbfe36f51e3e2dac73b097cbde3cca8f6eb3388c0a63eda596",
+      "bytes": 27823
+    },
+    {
+      "path": "src/assets/alesia-terrain.webp",
+      "sha256": "ec533da36475706586e976bbee8e517ac7e831b064adaf8be2d7906a2e4620a9",
+      "bytes": 264978
+    },
+    {
+      "path": "src/assets/alexandria-terrain.webp",
+      "sha256": "13e7662a3aa28fcec9a059eb7746e8af881c30dc30c0aaa75e7b42732762d359",
+      "bytes": 391972
+    },
+    {
+      "path": "src/assets/bibracte-terrain.webp",
+      "sha256": "79b392d20b8e4a52b0ce3c615486fa2058fd08a0e4bf65115cb0fd838f201b16",
+      "bytes": 340820
+    },
+    {
+      "path": "src/assets/gergovia-terrain.webp",
+      "sha256": "752d7a49b7291e5e62166e0551d07dda0490b50fdb92a3cdc3eb71a9a8a3216a",
+      "bytes": 353310
+    },
+    {
+      "path": "src/assets/helvetian-warrior-attack.webp",
+      "sha256": "1f47e1c85c6e0effafb7237b99e3d44354a1ee5be11bb34308fe41cd4b9a7245",
+      "bytes": 260818
+    },
+    {
+      "path": "src/assets/helvetian-warrior.webp",
+      "sha256": "288cbc2b9f65745e96b3776b9c935b31eb94e117772bc735523045bda4488a45",
+      "bytes": 276612
+    },
+    {
+      "path": "src/assets/parthia-terrain.webp",
+      "sha256": "52ce4111376c7e3cc68292443d106c491d0cdb4a6d418abc9be0d0fc90ae1260",
+      "bytes": 287572
+    },
+    {
+      "path": "src/assets/parthian-cataphracts.webp",
+      "sha256": "30a7f23ca6ca69c8fe2836fb9f25a0d90d4232d5f94e040cf9531b0b2721494d",
+      "bytes": 368278
+    },
+    {
+      "path": "src/assets/parthian-horse-archers.webp",
+      "sha256": "e45c42e2b6d13bfb10569301f3fbe4aa80d31215030e3bd0ea665631b77e2c10",
+      "bytes": 309686
+    },
+    {
+      "path": "src/assets/pharsalus-terrain.webp",
+      "sha256": "df95b30ed5a351f13f63128bc542ae634f1a84429e435c694eff9b977b9cf56c",
+      "bytes": 410766
+    },
+    {
+      "path": "src/assets/pontic-scythed-chariot.webp",
+      "sha256": "906ed4813f6a654a6e35a090c2da7dff3a3702cc3db99cbc29e6f218edfdeda1",
+      "bytes": 331722
+    },
+    {
+      "path": "src/assets/roman-auxiliary-cavalry.webp",
+      "sha256": "ac4d3a31fc081da338e1785fa912644ed85e644efd3774678cb4a1923ca50476",
+      "bytes": 263946
+    },
+    {
+      "path": "src/assets/roman-legionary-attack.webp",
+      "sha256": "c629c3b23cc4288356087e1dafea1cd24b37c07302769f546e86bd80394569d7",
+      "bytes": 193930
+    },
+    {
+      "path": "src/assets/roman-legionary.webp",
+      "sha256": "845f83737decbaee5ebb4a6093d49f51716b240b8982f3742dc80a6f8f451f8f",
+      "bytes": 227038
+    },
+    {
+      "path": "src/assets/sabis-terrain.webp",
+      "sha256": "763e4d9a46e2fe867ffae4a27c5aacc8553db0a91d3e9c550f25262bfda65725",
+      "bytes": 269744
+    },
+    {
+      "path": "src/assets/zela-terrain.webp",
+      "sha256": "a07c0307929c1fa5e3c8ebd2c297d52c518842170d0b7e907cbe8d2d605414ec",
+      "bytes": 351884
+    },
+    {
+      "path": "src/components/Battlefield.tsx",
+      "sha256": "bbca4d4b36830c82f74f163e381edd0969ce982e591dd0e5fde8e5da6413c32e",
+      "bytes": 34127
+    },
+    {
+      "path": "src/game/formationVisuals.ts",
+      "sha256": "860345fa5541c4f2b57bca0d033e00afb8dcd280ef2333253ffd6c18b20c6f13",
+      "bytes": 8009
+    },
+    {
+      "path": "src/game/progress.ts",
+      "sha256": "7460108a463eafefc3610ba28e8c49baaac981921d88fbd1df5e14a317c09246",
+      "bytes": 2995
+    },
+    {
+      "path": "src/game/simulation.ts",
+      "sha256": "44f0a412878f57f5c3d73161925cdf8b3f647681f4cc5f7b0a13887a4660b524",
+      "bytes": 82657
+    },
+    {
+      "path": "src/game/types.ts",
+      "sha256": "92d5c1fff04d8165052ec4ac126181d42ad6989787b78f26efe4ecf26d0757ff",
+      "bytes": 1648
+    },
+    {
+      "path": "src/main.tsx",
+      "sha256": "ccbefe7be6c69706a1bb01c4c3f20492eb002435af6ba7e5a6d45f7c6aa3a140",
+      "bytes": 232
+    },
+    {
+      "path": "src/styles.css",
+      "sha256": "f747d21910c503e7bce9e78e3fd8dd54c64619725255b62db348ba234e910e81",
+      "bytes": 16171
+    },
+    {
+      "path": "src/vite-env.d.ts",
+      "sha256": "65996936fbb042915f7b74a200fcdde7e410f32a669b1ab9597cfaa4b0faddb5",
+      "bytes": 38
+    },
+    {
+      "path": "tests/atlasManifest.test.ts",
+      "sha256": "013622de127f6cf4b41572f5c646a8ad08bbd88b9c3a3ef5026cce673dd8e44a",
+      "bytes": 1583
+    },
+    {
+      "path": "tests/formationVisuals.test.ts",
+      "sha256": "16c818a959a5f515c6f190e3b32a722eb3cdfc8f1a08f88cd902a720477850d6",
+      "bytes": 3612
+    },
+    {
+      "path": "tests/progress.test.ts",
+      "sha256": "84025ed8648c76541b8678cedf8c6ca5bef41e0395103653fa6ab9a6eed2c6eb",
+      "bytes": 1299
+    },
+    {
+      "path": "tests/simulation.test.ts",
+      "sha256": "37353a5054c5e0197c42452ba26f011a1ef0a28d31c340c5be4de2b11051e1ae",
+      "bytes": 20538
+    },
+    {
+      "path": "tsconfig.json",
+      "sha256": "6b63c63ad664dfdf519c6a726fca52341c4ee24fe97e91955fd74c3ae9089efb",
+      "bytes": 534
+    },
+    {
+      "path": "vite.config.ts",
+      "sha256": "07c8e89f5ade66502018e24e42f0199cc81a1d1e7a9fa1a98743ab1926acc84c",
+      "bytes": 341
+    }
+  ],
+  "runtime_and_media_unmodified": true
+}
